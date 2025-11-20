@@ -1,0 +1,344 @@
+/* .q1{
+    color:grey;
+    margin-left: 44px;
+    font-size: 20px;
+}
+.q2{
+    color: grey;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.q3{
+   color: gray;
+}
+.a3{
+    margin-left: 44px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.a2{
+    color: grey;
+    font-size: 15px;
+     margin-left: 44px;
+     font-weight: thin;
+}
+.a4{
+ display: flex;
+ flex-direction: row;
+ gap:76px;
+ padding-left: 25%;
+ position: relative;
+ bottom: 47px;
+}
+.a4:hover{
+    color: aqua;
+}
+.about,.contact,.getpro{
+    text-decoration: none;
+    color:black;
+    position: relative;
+    top:5px;
+}
+.btn1,.btn2{
+    position: relative;
+    left:45px;
+}
+.view{
+padding-left: 70%;
+gap:15px;
+}
+.index{
+    display: flex;
+ flex-direction: row;
+}
+.btn3:hover{
+background-color:rgb(231, 225, 225);
+}
+.b1{
+    font-weight: bold;
+    font-size: 100px;
+    width: 50px;
+}
+.a1{
+    font-weight: bold;
+}
+.card-title{
+    font-size: large;
+ text-transform: uppercase;
+ position: relative;
+ font-size: 80px;
+ font-weight: bold;
+}
+.qw{
+    position: relative;
+    top:50px;  
+    margin-left: 30px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.qwe{
+    position: relative;
+    top:95px;
+     font-size: 24px;
+    font-weight: bold;
+}
+.qwer{
+    position: relative;
+    top:95px;
+     font-size: 24px;
+    font-weight: bold;
+}
+.qwert{
+    position: relative;
+    top:95px;
+     font-size: 24px;
+    font-weight: bold;
+}
+.shoe{
+    position: relative;
+    left: 50%;
+}
+.hat{
+    position: relative;
+    top:50%;
+    left: 50%;
+    color:grey;
+}
+.hat1{
+    color: black;
+   font-weight: bold;
+}
+.ss{
+    display: flex;
+ flex-direction: row;
+ position: relative;
+}
+.index1{
+    display: flex;
+ flex-direction: row;
+}
+.index2{
+    display: flex;
+ flex-direction: row;
+}
+.qw{
+    position: relative;
+    top:93px;
+}
+.qwz{
+    position: relative;
+    top:93px;
+    right: 50px;
+    position: relative;
+     font-size: 24px;
+    font-weight: bold;
+}
+.qwez{
+    position: relative;
+    top:95px;
+     font-size: 24px;
+    font-weight: bold;
+}
+.qwerz{
+    position: relative;
+    top:95px;
+     font-size: 24px;
+    font-weight: bold;
+}
+.qwertz{
+    position: relative;
+    top:95px;
+     font-size: 24px;
+    font-weight: bold;
+}
+.qw1{
+    position: relative;
+    top:90px;
+     font-size: 24px;
+    font-weight: bold;
+    margin-left: 30px;
+}
+.qwe1{
+    position: relative;
+    top:95px;
+     font-size: 24px;
+    font-weight: bold;
+}
+.qwer1{
+    position: relative;
+    top:95px;
+     font-size: 24px;
+    font-weight: bold;
+}
+.qwert1{
+    position: relative;
+    top:95px;
+     font-size: 24px;
+    font-weight: bold;
+}
+.qw2{
+    position: relative;
+    top:78px;
+    margin: 20px;
+     font-size: 24px;
+    font-weight: bold;
+}
+.qwe2{
+    position: relative;
+    top:95px;
+     font-size: 24px;
+    font-weight: bold;
+}
+.qwer2{
+    position: relative;
+    top:95px;
+     font-size: 24px;
+    font-weight: bold;
+}
+.qwert2{
+    position: relative;
+    top:95px;
+     font-size: 24px;
+    font-weight: bold;
+}
+.zzz{
+    position: relative;
+    left:90%;
+    top:30px;
+    text-decoration: none;
+    color: black;
+}
+.zz{
+    position: relative;
+    left:3%;
+    font-size: 40px;
+    font-weight: bold;
+}
+.uu{
+    display: flex;
+    color: black;
+    text-decoration: none;  
+    flex-direction: row;
+    position: relative;
+    left:40px;
+    gap:110px;
+    word-spacing: 10px;
+    font-size: 20px;
+}
+.index{
+    position: relative;
+    bottom:70px;
+}
+.demoo{
+    position: relative;
+    left: 500px;
+    top:130px;
+
+
+}
+.aaaa{
+    display: flex;
+    flex-direction: row;
+}
+.as{
+    position: relative;
+    top:100px;
+     font-size: 24px;
+    font-weight: bold;
+}
+.asd{
+    position: relative;
+   bottom:245px;
+   left:90px;
+     font-size: 24px;
+    font-weight: bold;
+}
+.asdf{
+     position: relative;
+     bottom:590px;
+     left:490px;
+     font-size: 24px;
+     font-weight: bold;
+}
+.asi{
+    position: relative;
+    left:80%;
+    text-decoration: none;
+    color: black;
+}
+body{
+    overflow-x: hidden;
+}
+.vb{
+    display: flex;
+    gap:50px;
+    margin-left: 70px;
+}
+.kl{
+   display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 110px;
+    gap:15px;
+}
+.kkl{
+ display: flex;
+      gap:5px;
+    flex-direction: column;
+    position: relative;
+    margin-left: 300px;
+    bottom:155px;
+    gap:15px;  
+}
+.kkll{
+ display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-left: 600px;
+    width: 15%;
+     bottom:430px;
+       gap:15px;
+       color: grey;
+}
+.kkkll{
+ display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-left: 900px;
+    width: 20%;
+     bottom:680px;
+       gap:15px;
+       color: gray;
+}
+.iii{      
+   display: flex;
+    position: relative;
+    margin-left: 900px;
+    width: 20%;
+     bottom:670px;
+       gap:10px;
+}
+.vbn{
+    position: relative;
+     bottom:550px;
+}
+.ty{
+    position: relative;
+      top:30px;
+}
+.mnb{
+    position: relative;
+    margin-left: 70%;
+    flex-direction: column;
+}
+.mnbb{
+  position: relative;
+    margin-left: 50%;
+    bottom: 35px;  
+}
+.k1:hover{
+     transform: scale(1.1);
+     transition: transform 2s ease;
+    }
+
+ */
